@@ -12,8 +12,8 @@ description: Web Developer from Somewhere
 avatar: https://cdn0.iconfinder.com/data/icons/iconshock_guys/512/matthew.png
 
 #code for the storage of image assets
-#post_assets: images
-#genral_assets: images
+post_assets: images
+genral_assets: images
 
 # Includes an icon in the footer for each username you enter
 footer-links:
