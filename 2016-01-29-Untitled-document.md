@@ -1,0 +1,10 @@
+---
+title: Friday 22nd January 2016
+layout: post
+author: arvin.joy
+permalink: /untitled-document/
+source-id: 1klui0wCJOgKBdAKBIzIiQRdUUtxvUsmCiPB7zV27PI4
+published: true
+---
+In class we talked about fantasy and reality. Fantasy means what is not6 real reality means what is real.  We watched a pepsi max video and talked about fantasy and reality in the video.we watched a Mcdonald's video and said what fantasy and reality was in that . We also said why they made the video because it was about the advertising pictures being different from what you actually get.
+
