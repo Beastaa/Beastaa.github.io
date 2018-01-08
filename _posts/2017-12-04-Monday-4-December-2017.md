@@ -54,7 +54,8 @@ published: true
   </tr>
   <tr>
     <td>Next time I will change my working pace so that I will spend more time on each one of the lines so that I can easily understand why I am writing certain stuff. I will inprove my learning by thinking how I could apply this to a job in the future and I will also try to understand the theory behind the code.</td>
+    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRl_cbKmcFiUGGg5hil3V2yTb9i61Wh9Ou0HlqvYhe7_0OFoUwfB9uW4ozbMy42HWx6KhHKzFcE07UT/pubhtml?widget=true&amp;headers=false"></iframe>
+
   </tr>
 </table>
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRl_cbKmcFiUGGg5hil3V2yTb9i61Wh9Ou0HlqvYhe7_0OFoUwfB9uW4ozbMy42HWx6KhHKzFcE07UT/pubhtml?widget=true&amp;headers=false"></iframe>
